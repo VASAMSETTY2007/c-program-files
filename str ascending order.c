@@ -1,0 +1,1 @@
+/*write a c program to arrange the given strings in the ascending order*/
